@@ -1,0 +1,16 @@
+{
+  "resourceName": "ecomccproj",
+  "policyUUID": "84ce42c2",
+  "bucketName": "mybookstoreccef88e212e25a452697cb9c1463d36718",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
